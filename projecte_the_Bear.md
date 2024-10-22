@@ -18,3 +18,4 @@ La repartició de les tasques sera de la seguent forma:
 ..*Calendari (B)
 ..*Costos (C)
 ..*Planificació (D)
+test
