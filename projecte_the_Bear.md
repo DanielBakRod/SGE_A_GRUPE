@@ -18,3 +18,10 @@ La repartició de les tasques sera de la seguent forma:
 ..*Calendari (B)
 ..*Costos (C)
 ..*Planificació (D)
+
+### Compres(C)
+Entrem al apartat de compres del nostre odoo:
+![alttext](img/Compres/1entrarCompres.png"Entrar a compres")
+
+Veurem la següent pagina on crearem un nou presupost.
+![alttext](img/Compres/2nouPresupost.png"Creem nou presupost")
