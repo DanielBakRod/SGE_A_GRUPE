@@ -36,7 +36,15 @@ Fent servir els botons "Agregar producto" i "Agregar sección" oh podrem tenir m
 Un cop tenim tot el que volem comprar apuntat comfirmem la comanda amb el boto "Confirmar pedido".
 ![alttext](img/Compres/5confirmemComanda.png "Confirmar comanda")
 
+Amb els botons de la dreta "Enviar mensaje", "Registrar nota" i "Actividades" es pot anar comentant i organitzant el proces de compra.
+![alttext](img/Compres/6seguimentPressu.png "Seguiment pressupost")
 
+>En activitats cal tenir en compte les seguents coses:
+>![alttext](img/Compres/6.1Activitats.png "Activitats")     
+>>Quina activitat es:   
+>>![alttext](img/Compres/6.2tipusActivitat.png "Tipus Activitats")    
+>>El dia que s'ha d'acabar.     
+>>Un resum de l'activitat.
 
-Un cop comprat es crea la factura desde el boto "Crear factura"
-![alttext](img/Compres/6crearFactura.png "Crear factura")
+Un cop acabades les activitats es crea la factura desde el boto "Crear factura".
+![alttext](img/Compres/7crearFactura.png "Crear factura")
