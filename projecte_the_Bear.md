@@ -25,3 +25,18 @@ Entrem al apartat de compres del nostre odoo:
 
 Veurem la següent pagina on crearem un nou presupost.
 ![alttext](img/Compres/2nouPresupost.png "Creem nou presupost")
+
+Cal completar, com a minim, els camps marcats en vermell:
+![alttext](img/Compres/3presuCreat.png "P00001")
+
+Un cop creat el presupost podem afegir els items que volem/nececitem comprar com pre exemple:
+![alttext](img/Compres/4afegirProductes.png "Afegir productes")
+Fent servir els botons "Agregar producto" i "Agregar sección" oh podrem tenir mes ordenat.
+
+Un cop tenim tot el que volem comprar apuntat comfirmem la comanda amb el boto "Confirmar pedido".
+![alttext](img/Compres/5confirmemComanda.png "Confirmar comanda")
+
+
+
+Un cop comprat es crea la factura desde el boto "Crear factura"
+![alttext](img/Compres/6crearFactura.png "Crear factura")
