@@ -48,3 +48,33 @@ Amb els botons de la dreta "Enviar mensaje", "Registrar nota" i "Actividades" es
 
 Un cop acabades les activitats es crea la factura desde el boto "Crear factura".
 ![alttext](img/Compres/7crearFactura.png "Crear factura")
+
+### Costos(C)
+----
+Benvingut al apartat de Costos de odoo! Per gestionar-l'ho primer hem d'entrar fent clic a la icona de "Gastos":
+![alttext](img/Costos/1Entrar.png "Entrar a Costos")
+
+Un cop dins veurem aquesta pagina.
+![alttext](img/Costos/2Principal.png "Pagina principal")
+
+Anem a afegir un rebut d'alguna compra. Per fero fem clic al boto "Nuevo", o "Subir" si el tenim en digital.
+![alttext](img/Costos/3CrearRebut.png "Crear rebut")
+
+Un cop creat s'ha d'afegir la informació del rebut. No t'oblidis de completar-ho tot. Com mes informació hi entris, mes facil serà comprendre de que es el rebut en un futur.
+![alttext](img/Costos/4OmplirRebut.png "Omplir rebut")
+> Molt important! Si la compañia es la que ha pagat el rebut, apareixera la casella de "Proveedor". 
+>![alttext](img/Costos/4.1PagatXcompanyia.png)
+
+Un cop creat el rebut, creem l'informe.
+![alttext](img/Costos/5CrearInforme.png "Crear informe")
+
+Ara haurem d'omplir la informació del Gerent i amb quin metode de pagament farem servir. I l'enviem al gerent amb el boto "Enviar al gerente".
+![alttext](img/Costos/6OmplirEnviarInforme.png "Omplir i enviar")
+
+Ara ens apareixera el boto per: Aprobar o Denegar el rebut.
+![alttext](img/Costos/7Aprobar.png "Aprobar")
+
+
+![alttext]()
+
+![alttext]()
