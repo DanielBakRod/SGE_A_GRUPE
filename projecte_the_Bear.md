@@ -48,3 +48,9 @@ Amb els botons de la dreta "Enviar mensaje", "Registrar nota" i "Actividades" es
 
 Un cop acabades les activitats es crea la factura desde el boto "Crear factura".
 ![alttext](img/Compres/7crearFactura.png "Crear factura")
+
+
+## Punt de Venta
+
+El Punt de venda d'Odoo gestiona els restaurants. 
+Els moviments d'inventari es registren de manera automàtica a les seves existències, podrà veure estadístiques en temps real, i les seves dades es consoliden a totes les botigues.
