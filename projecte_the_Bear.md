@@ -35,6 +35,7 @@ Tambe podem crear "Departaments" on posar a cada empleat:
 Un exemple de un parell de departaments seria com aquets:
 ![alttext](img/Empleats/EjemploDepartamentos.png "Exemple Departaments")
 
+
 ### Compres(C)
 ----
 Entrem al apartat de compres del nostre odoo:
