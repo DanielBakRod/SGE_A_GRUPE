@@ -18,6 +18,24 @@ La repartició de les tasques sera de la seguent forma:
 >* Costos (C)
 >* Planificació (D)
 
+### Empleats(A)
+----
+Per començar hem de instalar el modul d'Empleats, que seria el seguent:
+![alttext](img/Empleats/AplicacióEmpleats.png "Aplicació")
+
+Un cop instalada, podem clicar a "Crear" i alla en sortira la seguent pestanya en la que podem omplir amb les dades del treballadors.
+![alttext](img/Empleats/TestCreacioEmpleats.png "Test Exemple Empleats")
+
+Un cop creats ens sortirien cada cop que entrem a empleats d'aquesta manera:
+![alttext](img/Empleats/ExempleEmpleatsCreats.png "Exemple Empleats")
+
+Tambe podem crear "Departaments" on posar a cada empleat:
+![alttext](img/Empleats/TestDepartamentos.png "Test Departament")
+
+Un exemple de un parell de departaments seria com aquets:
+![alttext](img/Empleats/EjemploDepartamentos.png "Exemple Departaments")
+
+
 ### Compres(C)
 ----
 Entrem al apartat de compres del nostre odoo:
