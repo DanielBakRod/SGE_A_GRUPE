@@ -67,6 +67,22 @@ Amb els botons de la dreta "Enviar mensaje", "Registrar nota" i "Actividades" es
 Un cop acabades les activitats es crea la factura desde el boto "Crear factura".
 ![alttext](img/Compres/7crearFactura.png "Crear factura")
 
+Despres de comprovar la factura per ultim cop la podrem aprobar. S'han d'omplir tots els camps.
+![alttext](img/Compres/8confirmarFactura.png "Confirmar Factura")
+
+I finalment pagem la factura.
+![alttext](img/Compres/9pagarFactura.png "Pagar factura")
+
+>Per pagar, primer s'ha de crear el pagament.
+>![alttext](img/Compres/10crearPago.png "Crear pagament")
+
+Un cop pagada es veura d'aquesta forma.
+![alttext](img/Compres/11facturaPagada.png "Factura pagada")
+Desde aquesta ultima pagina es pot rectificar la factura o tornar-la a un borrador.
+
+Desde el menu d'adalt a la esquerra podras navegar entre els teus presupostos, productes i solicituts de compra que haguis creat. A mes a mes, en "Informes" podras veure grafics de les teves gestions de compres.
+![alttext](img/Compres/12mesInfo.png "Mes informació")
+
 ### Costos(C)
 ----
 Benvingut al apartat de Costos de odoo! Per gestionar-l'ho primer hem d'entrar fent clic a la icona de "Gastos":
@@ -91,8 +107,14 @@ Ara haurem d'omplir la informació del Gerent i amb quin metode de pagament fare
 
 Ara ens apareixera el boto per: Aprobar o Denegar el rebut.
 ![alttext](img/Costos/7Aprobar.png "Aprobar")
+Aprobem el rebut.
 
+Per pagar el rebut, fem clic al boto "Registrar asientos contables"
+![alttext](img/Costos/8Pagem.png "Pagar el rebut")
 
-![alttext]()
+Un cop pagat es veura d'aquesta manera.
+![alttext](img/Costos/9Pagat.png)
+Desde aquesta mateixa pagina es pot tornar e rebut com a borrador.
 
-![alttext]()
+Quan hi haguin varios rebuts i informes, segurament es voldra veure un historial, o fer grafics. Amb la pestanya de "Informes" es crearan grafics automaticament amb tota la informació que es necessiti.
+![alttext](img/Costos/10mesinfo.png "Mes informació")
