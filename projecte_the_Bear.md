@@ -96,3 +96,40 @@ Ara ens apareixera el boto per: Aprobar o Denegar el rebut.
 ![alttext]()
 
 ![alttext]()
+
+### Punt de venta
+
+Primer hem d'accedir a 'Punt de venda'
+![alttext](img/TPV/Imatge1.jpeg)
+
+Abans de començar, s'ha de revisar la caixa registradora i tenir un control dels diners que conté
+![alttext](img/TPV/Imatge2.jpeg)
+
+És necessari tenir diferents de bitllets, per a això hem de triar el tipus de bitllet
+![alttext](img/TPV/Imatge3.jpeg)
+
+![alttext](img/TPV/Imatge4.jpeg)
+
+Revisem que tot estigui bé, i podem obrir la caixa registradora
+![alttext](img/TPV/Imatge5.jpeg)
+
+Seleccionem el número de taula, per a començar a comandar
+![alttext](img/TPV/Imatge6.jpeg)
+
+En aquesta opció podem triar el menjar i beguda, així tindríem un ordre adequat del que demana cada taula. Es pot agregar la quantitat que desitgis de cada cosa.
+![alttext](img/TPV/Imatge7.jpeg)
+
+![alttext](img/TPV/Imatge8.jpeg)
+
+En finalitzar, en realitzar el pagament, ens dona l'opció de pagament en efectiu o amb targeta.
+![alttext](img/TPV/Imatge9.jpeg)
+
+![alttext](img/TPV/Imatge10.jpeg)
+
+![alttext](img/TPV/Imatge11.jpeg)
+
+![alttext](img/TPV/Imatge12.jpeg)
+
+![alttext](img/TPV/Imatge14.jpeg)
+
+
