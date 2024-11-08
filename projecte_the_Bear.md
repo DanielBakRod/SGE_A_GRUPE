@@ -138,3 +138,7 @@ Una vegada realitzat el pagament, el POST emet una factura.
 ![alttext](img/TPV/Imatge14.jpeg)
 
 
+### Planificació
+
+Amb aquesta opció podem planificar o tenir un control de les persones que treballen en l'empresa, tenir organitzat els horaris de treball o agendar una cosa important.
+![alttext](img/TPV/Imatge15.jpeg)
