@@ -20,6 +20,7 @@ La repartició de les tasques serà de la següent forma:
 >* Costos (C)
 >* Planificació (D)
 
+----
 ### Empleats(A)
 ----
 
@@ -38,7 +39,7 @@ També podem crear "Departaments" on posar a cada empleat:
 Un exemple d'un parell de departaments seria com aquests:
 ![alttext](img/Empleats/EjemploDepartamentos.png "Exemple Departaments")
 
-
+----
 ### Compres(C)
 ----
 
@@ -87,6 +88,7 @@ Des d'aquesta última pàgina es pot rectificar la factura o tornar-la a un esbo
 Des del menú de dalt a l'esquerra podràs navegar entre els teus pressupostos, productes i sol·licituds de compra que hagis creat. A més a més, en "Informes" podràs veure gràfics de les teves gestions de compres.
 ![alttext](img/Compres/12mesInfo.png "Més informació")
 
+----
 ### Costos(C)
 ----
 
