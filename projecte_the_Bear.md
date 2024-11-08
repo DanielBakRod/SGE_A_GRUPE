@@ -126,10 +126,15 @@ En finalitzar, en realitzar el pagament, ens dona l'opció de pagament en efecti
 
 ![alttext](img/TPV/Imatge10.jpeg)
 
+En aquest cas, triem l'opció 'targeta', client i en cas desitgi una factura.
 ![alttext](img/TPV/Imatge11.jpeg)
 
+
+Després valguts la informació ingressada.
 ![alttext](img/TPV/Imatge12.jpeg)
 
+
+Una vegada realitzat el pagament, el POST emet una factura.
 ![alttext](img/TPV/Imatge14.jpeg)
 
 
