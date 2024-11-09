@@ -55,6 +55,7 @@ Per exemple, si el client habitual Manel Garcia demana un Menú del día, es pot
 ![alttext](img/Vendes/CrearPressupost.png "Crear pressupost")
 
 A la pàgina “Equipos de ventas” es veuran estadístiques i gràfiques que ajudaran a veure quines comandes són realitzades més sovint, per quins clients, etc…
+
 ![alttext](img/Vendes/EquipsDeVendes.png "Equips de vendes")
 
 A la pàgina de clients, es poden visualitzar i crear clients habituals en forma d’individu o empreses. Aquests clients també es poden crear a l’hora de fer una nova comanda o pressupost.
@@ -67,9 +68,10 @@ Les comandes i pressupostos es poden facturar i a la pàgina “Pedidos a factur
 ![alttext](img/Vendes/ComandesAFacturar.png "Comandes a facturar")
 
 Ja acabant, hi ha una secció d’informes on es poden veure més gràfics i informes de les vendes, comercials, productes i clients per ajudar amb el màrqueting de l’empresa.
+
 ![alttext](img/Vendes/PaginaInformes.png "Pàgina informes")
 
-
+Finalment, es pot canviar la configuració de la pàgina per tindre-la al gust i mostrant únicament el que interesa.
 ![alttext](img/Vendes/Configuracio.png "Configuració")
 
 ----
@@ -171,7 +173,8 @@ Al menú principal, s’ha afegit el mòdul de calendari.
 El calendari es pot organitzar per dia, setmana, mes o any. A continuació es pot veure el calendari del mes de novembre amb les reunions creades amb diferents duracions i horaris.
 ![alttext](img/Calendari/PaginaPrincipal.png "Pàgina principal")
 
-També hi ha l’opció de crear assistent per sel·leccionar-los a diferents reunions i cites. 
+També hi ha l’opció de crear assistent per sel·leccionar-los a diferents reunions i cites.
+
 ![alttext](img/Calendari/Assistents.png "Assistents")
 
 Al crear una reunió, s’introdueix una data amb un horari i la seva duració a més de moltes altres funcions addicionals com l’ubicació, una URL en cas de que sigui una Videoconferència, la teva privacitat durant aquest event, una descripció i els assistents.
