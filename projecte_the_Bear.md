@@ -89,45 +89,6 @@ Des del menú de dalt a l'esquerra podràs navegar entre els teus pressupostos, 
 ![alttext](img/Compres/12mesInfo.png "Més informació")
 
 ----
-### Costos(C)
-----
-
-Benvingut a l'apartat de Costos de odoo! Per gestionar-lo primer hem d'entrar fent clic a la icona de "Gastos":
-![alttext](img/Costos/1Entrar.png "Entrar a Costos")
-
-Un cop dins veure'm aquesta pàgina.
-![alttext](img/Costos/2Principal.png "Pàgina principal")
-
-Afegim un rebut d'alguna compra. Per fer-ho fem clic al botó "Nuevo", o "Subir" si el tenim en digital.
-![alttext](img/Costos/3CrearRebut.png "Crear rebut")
-
-Un cop creat s'ha d'afegir la informació del rebut. No t'oblidis de completar-ho tot. Com més informació hi entris, més fàcil serà comprendre de què és el rebut en un futur.
-![alttext](img/Costos/4OmplirRebut.png "Omplir rebut")
-
-> Molt important! Si la companyia és la que ha pagat el rebut, apareixerà la casella de "Proveedor". 
->![alttext](img/Costos/4.1PagatXcompanyia.png)
-
-Un cop creat el rebut, creem l'informe.
-![alttext](img/Costos/5CrearInforme.png "Crear informe")
-
-Ara haurem d'omplir la informació del Gerent i amb quin mètode de pagament farem servir. I l'enviem al gerent amb el botó "Enviar al gerente".
-![alttext](img/Costos/6OmplirEnviarInforme.png "Omplir i enviar")
-
-Ara ens apareixerà el botó per: Aprovar o Denegar el rebut.
-![alttext](img/Costos/7Aprobar.png "Aprovar")
-Aprobem el rebut.
-
-Per pagar el rebut, fem clic al botó "Registrar asientos contables"
-![alttext](img/Costos/8Pagem.png "Pagar el rebut")
-
-Un cop pagat es veurà d'aquesta manera.
-![alttext](img/Costos/9Pagat.png)
-Des d'aquesta mateixa pàgina es pot tornar el rebut com a esborrany.
-
-Quan hi haguin diversos rebuts i informes, segurament es voldrà veure un historial, o fer gràfics. Amb la pestanya d'"Informes" es crearan gràfics automàticament amb tota la informació que es necessiti.
-![alttext](img/Costos/10mesinfo.png "Més informació")
-
-----
 ### Punt de venta(D)
 ----
 
@@ -168,12 +129,47 @@ Una vegada realitzat el pagament, el POST emet una factura.
 ![alttext](img/TPV/Imatge14.jpeg)
 
 ----
+### Costos(C)
+----
+
+Benvingut a l'apartat de Costos de odoo! Per gestionar-lo primer hem d'entrar fent clic a la icona de "Gastos":
+![alttext](img/Costos/1Entrar.png "Entrar a Costos")
+
+Un cop dins veure'm aquesta pàgina.
+![alttext](img/Costos/2Principal.png "Pàgina principal")
+
+Afegim un rebut d'alguna compra. Per fer-ho fem clic al botó "Nuevo", o "Subir" si el tenim en digital.
+![alttext](img/Costos/3CrearRebut.png "Crear rebut")
+
+Un cop creat s'ha d'afegir la informació del rebut. No t'oblidis de completar-ho tot. Com més informació hi entris, més fàcil serà comprendre de què és el rebut en un futur.
+![alttext](img/Costos/4OmplirRebut.png "Omplir rebut")
+
+> Molt important! Si la companyia és la que ha pagat el rebut, apareixerà la casella de "Proveedor". 
+>![alttext](img/Costos/4.1PagatXcompanyia.png)
+
+Un cop creat el rebut, creem l'informe.
+![alttext](img/Costos/5CrearInforme.png "Crear informe")
+
+Ara haurem d'omplir la informació del Gerent i amb quin mètode de pagament farem servir. I l'enviem al gerent amb el botó "Enviar al gerente".
+![alttext](img/Costos/6OmplirEnviarInforme.png "Omplir i enviar")
+
+Ara ens apareixerà el botó per: Aprovar o Denegar el rebut.
+![alttext](img/Costos/7Aprobar.png "Aprovar")
+Aprobem el rebut.
+
+Per pagar el rebut, fem clic al botó "Registrar asientos contables"
+![alttext](img/Costos/8Pagem.png "Pagar el rebut")
+
+Un cop pagat es veurà d'aquesta manera.
+![alttext](img/Costos/9Pagat.png)
+Des d'aquesta mateixa pàgina es pot tornar el rebut com a esborrany.
+
+Quan hi haguin diversos rebuts i informes, segurament es voldrà veure un historial, o fer gràfics. Amb la pestanya d'"Informes" es crearan gràfics automàticament amb tota la informació que es necessiti.
+![alttext](img/Costos/10mesinfo.png "Més informació")
+
+----
 ### Planificació(D)
 ----
 
 Amb aquesta opció podem planificar o tenir un control de les persones que treballen en l'empresa, tenir organitzat els horaris de treball o agendar una cosa important.
 ![alttext](img/TPV/Imatge15.jpeg)
-
-Quan hi haguin diversos rebuts i informes, segurament es voldrà veure un historial, o fer gràfics. Amb la pestanya d'"Informes" es crearan gràfics automàticament amb tota la informació que es necessiti.
-![alttext](img/Costos/10mesinfo.png "Més informació")
-
