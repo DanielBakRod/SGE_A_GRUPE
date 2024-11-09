@@ -40,6 +40,39 @@ Un exemple d'un parell de departaments seria com aquests:
 ![alttext](img/Empleats/EjemploDepartamentos.png "Exemple Departaments")
 
 ----
+### Vendes(B)
+----
+Per començar, com es pot veure en el menú, als mòduls instal·lats hi haurà un mòdul de vendes.
+![alttext](img/Vendes/menu.png "Menú")
+
+Dins d’aquest mòdul, es poden veure i crear pressupostos i comandes a gust indicant el client, el producte venut i afegint si cal un servei d’entrega a domicili. També es podrá cancelar o fer una factura d’aquest i es veurà l’estat de cada comanda / pressupost.
+![alttext](img/Vendes/LlistaPressupostos.png "Llista pressupostos")
+
+A la pàgina “Pedidos” es poden veure les comandes i el seu estat a més de poder crear una nova.
+![alttext](img/Vendes/LlistaComandes.png "Llista comandes")
+
+Per exemple, si el client habitual Manel Garcia demana un Menú del día, es pot afegir com a comanda fàcilment.
+![alttext](img/Vendes/CrearPressupost.png "Crear pressupost")
+
+A la pàgina “Equipos de ventas” es veuran estadístiques i gràfiques que ajudaran a veure quines comandes són realitzades més sovint, per quins clients, etc…
+![alttext](img/Vendes/EquipsDeVendes.png "Equips de vendes")
+
+A la pàgina de clients, es poden visualitzar i crear clients habituals en forma d’individu o empreses. Aquests clients també es poden crear a l’hora de fer una nova comanda o pressupost.
+![alttext](img/Vendes/PaginaClients.png "Pàgina clients")
+
+També hi ha una pàgina de productes on es poden afegir productes amb el seu preu per utilitzar-los en comandes més endavant.
+![alttext](img/Vendes/PaginaProductes.png "Pàgina productes")
+
+Les comandes i pressupostos es poden facturar i a la pàgina “Pedidos a facturar” es veuen totes aquestes factures que encara no s’han pagat.
+![alttext](img/Vendes/ComandesAFacturar.png "Comandes a facturar")
+
+Ja acabant, hi ha una secció d’informes on es poden veure més gràfics i informes de les vendes, comercials, productes i clients per ajudar amb el màrqueting de l’empresa.
+![alttext](img/Vendes/PaginaInformes.png "Pàgina informes")
+
+
+![alttext](img/Vendes/Configuracio.png "Configuració")
+
+----
 ### Compres(C)
 ----
 
@@ -127,6 +160,26 @@ Després valguts la informació ingressada.
 
 Una vegada realitzat el pagament, el POST emet una factura.
 ![alttext](img/TPV/Imatge14.jpeg)
+
+----
+### Calendari(B)
+----
+
+Al menú principal, s’ha afegit el mòdul de calendari.
+![alttext](img/Calendari/MenuCalendari.png "Menú calendari")
+
+El calendari es pot organitzar per dia, setmana, mes o any. A continuació es pot veure el calendari del mes de novembre amb les reunions creades amb diferents duracions i horaris.
+![alttext](img/Calendari/PaginaPrincipal.png "Pàgina principal")
+
+També hi ha l’opció de crear assistent per sel·leccionar-los a diferents reunions i cites. 
+![alttext](img/Calendari/Assistents.png "Assistents")
+
+Al crear una reunió, s’introdueix una data amb un horari i la seva duració a més de moltes altres funcions addicionals com l’ubicació, una URL en cas de que sigui una Videoconferència, la teva privacitat durant aquest event, una descripció i els assistents.
+![alttext](img/Calendari/CrearReunio.png "Crear reunió")
+
+Finalment, hi ha la pàgina de configuració on es pot personalitzar el calendari per sincronitzar-lo amb el Calendari de Outlook o de Google.
+![alttext](img/Calendari/ConfiguracioCalendari.png "Configuracio calendari")
+
 
 ----
 ### Costos(C)
