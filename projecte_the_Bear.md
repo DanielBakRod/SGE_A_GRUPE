@@ -164,6 +164,33 @@ Una vegada realitzat el pagament, el POST emet una factura.
 ![alttext](img/TPV/Imatge14.jpeg)
 
 ----
+### Events(A)
+----
+
+A la aplicació "Eventos" podem veure que en primera plana surt on afegir events, nous o ja acabats i tambe l'opcio de crear noves categories.
+![alttext](img/Eventos/Eventos1.png "Eventos Vista Inicial")
+
+A continuació trobareu com es veria la creació d'un event, amb totes les seves opcions com la data, organitzador, entrades...
+![alttext](img/Eventos/TestEventos2.png "Exemple Eventos")
+
+Un cop creat un event en s sortiria en aquest format i alla mateix el podem moure de lloc segons la situació en la que es troba:
+![alttext](img/Eventos/TestVistaEventos3.png "Vista Eventos")
+
+Tambe tenim la part de analisis de events on podem veure en format de arbre les carecteristiques del event i on tambe podem modificar algunes dades
+
+![alttext](img/Eventos/TestAnalisisEventos4.png "Analisis Events")
+
+A l'apartat de "Sesiones" podem crear sesions amb les seves dades i informacio, la podem incloure en events i documentar dades respecte si fos per exemple una xerradaa informativa, qui la dona, videos de suport etc:
+![alttext](img/Eventos/SesionesEventos6.png "Sesions Events")
+
+Dintre de la configuracions del modul de "Eventos" podem afegir mes opcions com:
+![alttext](img/Eventos/AjustesAvanzados5.png "Ajustes Modulo Eventos")
+
+I amb aquestes opcions actives tindriem moltes mes opcions de configuracio per a "Events":
+![alttext](img/Eventos/OpcionesConfiguracion7.png "Opciones Configuracion")
+
+
+----
 ### Calendari(B)
 ----
 
